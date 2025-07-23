@@ -4,7 +4,7 @@
 To develop an interactive Excel dashboard that enables business stakeholders to analyze coffee sales performance, identify top-performing customers, and understand country-wise and time-based trends—ultimately supporting data-driven decision-making.
 
 2. Approach & Execution:
-Collected around 100k+ orders, customers, and products records to build a consolidated sales analysis model.
+Analysed 50k+ orders, customers, and products records to build a consolidated sales analysis model.
 Used Power Pivot and Pivot Tables to aggregate sales metrics.
 Designed interactive slicers for filtering by Roast Type, Coffee Size, Loyalty Card Usage, and Date Period, enabling dynamic insights. Built visualizations (bar, line, and pie charts) for: Sales by Country, Top 5 Customers based on Sales and Sales Trend over Time.
 Applied data cleaning and transformation using Excel formulas (VLOOKUP, IF, SUMIFS) and structured references for dynamic updates.
